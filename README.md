@@ -8,14 +8,12 @@ The entire stack is **containerized using Docker** and managed with **Docker Com
 
 ## ✨ Features
 
-- Full stack product management system
-- RESTful API backend
-- Responsive frontend interface
-- Containerized with Docker
-- Multi-container orchestration with Docker Compose
+- Add, update, delete, and view products
+- Responsive and modern UI using React
+- RESTful APIs using Spring Boot
 - MySQL database integration
-- Environment-based configuration
-- Scalable and maintainable architecture
+- Dockerized frontend, backend, and database
+- Single command setup using Docker Compose
 
 ---
 
