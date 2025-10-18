@@ -46,13 +46,13 @@ The entire stack is **containerized using Docker** and managed with **Docker Com
 ```
 Product_Management_Full_Stack/
 │
-├── backend/                         # Spring Boot backend application
+├── Product_Management_Backend/      # Spring Boot backend application
 │   ├── src/                         # Java source files
 │   ├── target/                      # Compiled build files (auto-generated)
 │   ├── pom.xml                      # Maven configuration file
 │   ├── Dockerfile                   # Backend Docker image configuration
 │
-├── frontend/                        # React frontend application
+├── product_ui/                      # React frontend application
 │   ├── public/                      # Static files (HTML, favicon, etc.)
 │   ├── src/                         # React components and pages
 │   ├── package.json                 # NPM dependencies and scripts
